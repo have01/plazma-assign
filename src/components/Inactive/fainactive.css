@@ -1,0 +1,14 @@
+.inactive_btn {
+    box-sizing: border-box;
+    width: 77px;
+    height: 24px;
+    background: rgba(239, 78, 78, 0.1);
+    border: 1px solid #EF4E4E;
+    border-radius: 40px;
+    align-items: center;
+    color: #EF4E4E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+}

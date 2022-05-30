@@ -1,0 +1,21 @@
+nav {
+    width: 1200px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+
+.page-link {
+    position: relative;
+    display: block;
+    padding: .5rem 0.75rem;
+    line-height: 1.25rem;
+    color: white;
+    background-color: #ffffff;
+}
+

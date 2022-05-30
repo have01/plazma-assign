@@ -1,0 +1,13 @@
+.active_btn{
+         box-sizing: border-box;
+        width: 77px;
+        height: 24px;
+        background: rgba(39, 165, 19, 0.1);
+        border: 1px solid #27A513;
+        border-radius: 40px;
+        color: #27A513;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-transform: capitalize;
+}
